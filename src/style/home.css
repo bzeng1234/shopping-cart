@@ -1,0 +1,18 @@
+.home-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background-image: url('../Images/microcenter.JPG');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: .8;
+}
+
+.home-information {
+    width: 90%;
+    color: black;
+    font-size: large;
+    margin-top: -200px;
+}

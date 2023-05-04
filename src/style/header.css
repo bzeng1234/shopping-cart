@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    height: 100px;
+    background-color: #030712;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.website-title {
+    font-size: 50px;
+}
+
+.nav-bar {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    gap: 7rem;
+}
+
+a,
+.cart {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
